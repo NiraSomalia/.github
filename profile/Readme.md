@@ -1,0 +1,1 @@
+Welcome to the NIRA Somalia GitHub repository. This platform serves as the hosting space for software systems and internal tools that are currently in development within our organization. The management of this account is overseen by the Information Systems Development (ISD) Department at NIRA, which is dedicated to shaping the digital future of Somalia.
